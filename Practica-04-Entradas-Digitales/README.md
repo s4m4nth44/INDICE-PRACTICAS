@@ -7,3 +7,5 @@ Aquí se encontrarán:
 - Esquemático de la práctica.
 - Código fuente utilizado.
 -  Fotografía/Video del funcionamiento.
+
+Esto de cada una de las practicas realizadas
