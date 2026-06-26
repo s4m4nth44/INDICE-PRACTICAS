@@ -3,8 +3,6 @@ Usar 3 botones conectados al puerto B para encender 3 LEDs conectados en otro pu
 
 En esta carpeta se mostrará la evidencia de la actividad realizada, incluyendo esquemático, código utilizado y fotografía/video de su funcionamiento
 
----
-
 Materiales:
 
 - PIC16F887
